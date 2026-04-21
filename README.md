@@ -1,4 +1,4 @@
-# # SOC Homelab Projects
+# SOC Homelab Projects
 
 This repository showcases a series of hands-on cybersecurity projects focused on **attack simulation, detection, and defense** using a home lab environment.
 
